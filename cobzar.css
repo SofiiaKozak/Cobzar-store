@@ -1,0 +1,334 @@
+.block1 {
+    background-image: url(fon_cobzar.jpg);
+    padding: 150px;
+}
+
+.title {
+    background: #CCCCCC;
+    border-radius: 20px;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    font-size: 30px;
+    white-space: pre-wrap; 
+}
+
+.block2 {
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+.blok1 {
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.blok2 {
+    white-space: normal;   
+    width: 30%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.blok3 {
+    white-space: normal;   
+    width: 30%;
+    margin-right: 100%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.block3 {
+    background-image: url(fon_cobzar.jpg);
+    padding: 150px;
+    height: 300px;
+    width: 80%;
+    
+}
+
+.title2 {
+    font-size: 25px;
+    background: #CCCCCC;
+    border-radius: 20px;
+    padding: 40px;
+    height: 300px;
+    width: 94%;
+}
+
+.text {
+    white-space: normal;   
+    width: 100%;
+    margin-right: 100%;
+    font-size: 25px;
+    border-radius: 20px;
+}
+
+
+.block4 {
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+
+
+.blok4 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+
+}
+
+.blok5 {
+    background: white;
+    white-space: normal;   
+    width: 45%;
+    margin-right: 5%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.blok6 {
+    margin: 20px;
+    background: white;
+    white-space: normal;   
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 20px;
+    border-radius: 10px;
+    vertical-align: top;
+    padding: 42px;
+}
+
+
+.block5 {
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+
+}
+.photo {
+    float:right; 
+    margin: 7px 7px 7px 0;
+  }
+
+.photo {
+    width: 350px;
+  }
+
+
+  .block6 {
+    background-color: #CCCCCC;
+    padding: 100px;
+    white-space: nowrap;
+    font-size: 30px;
+    
+    
+}
+
+.blok7 {
+    white-space: normal;   
+    width: 25%;
+    margin-right: 3%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    background: white;
+    padding: 40px;
+
+}
+
+.blok8 {
+    white-space: normal;   
+    width: 25%;
+    margin-right: 3%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    background: white;
+    padding: 40px;
+}
+
+.blok9 {
+    white-space: normal;   
+    width: 25%;
+    margin-right: 3%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    background: white;
+    padding: 40px;
+
+}
+
+.block8 {
+    font-size: 30px;
+    background: white;
+    padding: 50px;
+    width: 100%;
+
+    
+}
+
+.bloc1 {
+    font-size: 20px;
+    background: #CCCCCC;
+    border-radius: 20px;
+    padding: 50px;
+    height: 100px;
+    width: 85%;
+    margin: 30px;
+}
+
+.bloc2 {
+    font-size: 20px;
+    background: #CCCCCC;
+    border-radius: 20px;
+    padding: 50px;
+    height: 100px;
+    width: 85%;
+    margin: 30px;
+}
+.bloc3 {
+    font-size: 20px;
+    background: #CCCCCC;
+    border-radius: 20px;
+    padding: 50px;
+    height: 100px;
+    width: 85%;
+    margin: 30px;
+}
+.bloc4 {
+    font-size: 20px;
+    background: #CCCCCC;
+    border-radius: 20px;
+    padding: 50px;
+    height: 100px;
+    width: 85%;
+    margin: 30px;
+}
+.title8 {
+    margin: 30px;
+}
+
+.block9 {
+   
+    padding: 100px;
+    width: 85%;
+    white-space: nowrap;
+}
+.title9 {
+    margin: 30px;
+}
+
+.block10 {
+    background-image: url(fon_cobzar.jpg);
+    padding: 110px;
+    width: 85%;
+    margin: auto;
+    
+}
+
+.title10 {
+    background: #CCCCCC;
+    border-radius: 20px;
+    text-align: center;
+    height: 300px;
+    width: 100%;
+    font-size: 30px;
+    white-space: pre-wrap; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.block7 {
+    padding: 150px;
+    height: 450px;
+    width: 80%;
+    background-attachment: fixed;
+    background-image: url(fon_cobzar.jpg);
+
+    
+    
+}
+
+.title7 {
+    font-size: 25px;
+    background: #CCCCCC;
+    border-radius: 20px;
+    padding: 60px;
+    height: 400px;
+    width: 85%;
+}
+
+.blok10 { 
+    width: 25%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+.blok11 {
+    width: 30%;
+   
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+}
+
+.blok12 {
+    width: 30%;
+    font-size: 20px;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+
+}
+
+html {
+    width: 100%;
+    max-width: 100%;
+    overflow-x: hidden;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+
+
+
